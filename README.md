@@ -5,7 +5,7 @@
 <p>Refactor the jQuery code from .get, .done and .fail to fetch, then and catch</p>
 
 ## Starting Code
-![Screenshot](/images/staring-code.png)
+![Screenshot](/images/starting-code.png)
 
 ## Final Code
 ![Screenshot](images//ending-code.png)
