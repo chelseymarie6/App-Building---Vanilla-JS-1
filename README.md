@@ -10,3 +10,6 @@
 ## Final Code
 ![Screenshot](images//ending-code.png)
 
+## Website: Weather Functionality
+![Screenshot](/images/Website-weather-working.png)
+<p>In the upper right hand corner a user can type in a location to view the local weather using the [Open Weather Map API] (https://openweathermap.org/api).
